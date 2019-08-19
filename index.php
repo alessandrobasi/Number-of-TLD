@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 $servername = "localhost";
 $username = "alessandrobasi";
 $password = "nope";
-$dbname = "my_alessandrobasi";
+$dbname = "database";
 
 $cache_time = 604800; // 7 giorni in sec
 
